@@ -1,0 +1,2 @@
+Для восстановления пароля от сайта {'site_name' | config} воспользуйтесь следующей ссылкой: <br>
+<a href="{'site_url' | config}{18 | url}?hash={$hash}&user={$id}">{'site_url' | config}{18 | url}?hash={$hash}&user={$id}</a>
